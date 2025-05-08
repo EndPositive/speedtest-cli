@@ -23,7 +23,7 @@ import (
 
 const (
 	// the default ping count for measuring ping and jitter
-	pingCount = 10
+	pingCount = 30
 )
 
 // doSpeedTest is where the actual speed test happens
